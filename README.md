@@ -17,12 +17,12 @@ npm run build
 
 ## Folder Structure
 
-```bash
-+-- src
-  +-- AddTodo.js
-  +-- App.js
-  +-- App.test.js
-  +-- index.css
-  +-- index.js
-  +-- Todos.js
+```js
++ src
+  - AddTodo.js
+  - App.js
+  - App.test.js
+  - index.css
+  - index.js
+  - Todos.js
 ```
