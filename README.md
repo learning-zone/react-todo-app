@@ -14,15 +14,3 @@ npm start
 # Project Build
 npm run build
 ```
-
-## Folder Structure
-
-```js
-+ src
-  - AddTodo.js
-  - App.js
-  - App.test.js
-  - index.css
-  - index.js
-  - Todos.js
-```
