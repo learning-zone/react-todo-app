@@ -1,6 +1,5 @@
-# React Simple ToDo Application
+# React Simple ToDo Application - [live](https://learning-zone.github.io/react-simple-todo-app/)
 
-[live](https://learning-zone.github.io/react-simple-todo-app/)
 
 <img src="assets/ToDoApp.gif" alt="ToDo App" />
 
