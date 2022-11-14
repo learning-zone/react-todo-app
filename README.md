@@ -1,7 +1,11 @@
-# React Simple ToDo Application - [live](https://learning-zone.github.io/react-simple-todo-app/)
+# React ToDo App
 
 
 <img src="assets/ToDoApp.gif" alt="ToDo App" />
+
+<br/>
+
+[Demo](https://learning-zone.github.io/react-todo-app/)
 
 ## Installation
 
